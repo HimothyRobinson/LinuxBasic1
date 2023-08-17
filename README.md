@@ -1,4 +1,4 @@
-<h1>Linux Basics & Exploring Virtual Lab Environemnts 1/h1>
+<h1>Linux Basics & Exploring Virtual Lab Environemnts</h1>
 
 <h2>Description</h2>
 Lab Consist of Linux shell navigation, simple commands, and setting up a Kali VM and using command line to access files. 
