@@ -13,7 +13,7 @@ Lab Consist of Linux shell navigation, simple commands, and setting up a Kali VM
 
 - <b>Kali Linux VM</b>
 - <b>Ubunut 64 VM</b>
-
+- <b>Windows 7 VM</b>
 <h2>Project walk-through:</h2>
 
 <h3>Task A: Linux Introduction
